@@ -18,6 +18,10 @@ function Home() {
         <a>Product</a>
       </Link>
       <br />
+      <Link href="/posts" legacyBehavior>
+        <a>Posts</a>
+      </Link>
+      <br />
       <button
         style={{ backgroundColor: "blueviolet", padding: 10 }}
         onClick={handleClick()}
