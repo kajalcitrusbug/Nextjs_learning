@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Student 1",
+      "rollNo": 10,
+      "deatils": "Student 1 deatils"
+    },
+    {
+      "id": 2,
+      "name": "Student 2",
+      "rollNo": 22,
+      "deatils": "Student2 deatils"
+    },
+    {
+      "id": 3,
+      "name": "Student 3",
+      "rollNo": 30,
+      "deatils": "Student 3 deatils"
+    }
+  ]
+}
