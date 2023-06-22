@@ -30,6 +30,6 @@ export async function getStaticProps() {
     props: {
       student: data,
     },
-    revalidate: 30,
+    revalidate: 10,
   };
 }

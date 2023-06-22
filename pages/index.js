@@ -23,7 +23,12 @@ function Home() {
       </Link>
       <br />
       <button
-        style={{ backgroundColor: "blueviolet", padding: 10 }}
+        style={{
+          backgroundColor: "blueviolet",
+          padding: 10,
+          height: 50,
+          width: "10%",
+        }}
         onClick={handleClick()}
       >
         Place order
